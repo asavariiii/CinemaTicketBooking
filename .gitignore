@@ -1,0 +1,13 @@
+build/
+dist/
+out/
+*.class
+
+nbbuild/
+nbdist/
+.nb-gradle/
+
+.vscode/
+
+users.txt
+bookings.txt
